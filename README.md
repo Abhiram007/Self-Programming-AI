@@ -1,8 +1,5 @@
 # genetic-algorithm-brainfuck-generator
 
-This is a project inspired by http://www.primaryobjects.com/2013/01/27/using-artificial-intelligence-to-write-self-modifying-improving-programs/
-
-
 It use genetic algorithm to evolv brainfuck program.
 For now the only program that have been generated print text.
 It use threads to run and mutates multiple program programs at the same time.
